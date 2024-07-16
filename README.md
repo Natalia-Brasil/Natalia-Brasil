@@ -1,7 +1,7 @@
 - 👋 Olá, sou @Natalia-Brasil.
-- 👀 Estou interessado em adiquirir conhecimentos.
-- 🌱 Atualmente estou cursando Análise e Desenvolvimetno de Sistemas.
-- 💞️ Colaboro em em que eu puder.
+- 👀 Estou interessada em adiquirir conhecimentos.
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+
 
 <!---
 Natalia-Brasil/Natalia-Brasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
