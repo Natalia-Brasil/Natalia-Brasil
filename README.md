@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Natalia-Brasil.
 - 👀 Estou interessada em adiquirir conhecimentos.
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Formada no curso superior de Análise e Desenvolvimento de Sistemas.
 
 
 <!---
